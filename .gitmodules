@@ -5,6 +5,9 @@
 [submodule "rcoins"]
 	path = rcoins
 	url = https://github.com/cityriverspaces/rcoins
+[submodule "rcrisp"]
+	path = rcrisp
+	url = https://github.com/cityriverspaces/rcrisp
 [submodule "visor"]
 	path = visor
 	url = https://github.com/cityriverspaces/visor
